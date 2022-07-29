@@ -1,2 +1,5 @@
-# library-dbms
-DBMS for a fictional public library
+# Library Database Management System
+DBMS for a fictional public library.
+
+## Directory Structure
+TODO
