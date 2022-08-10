@@ -28,3 +28,7 @@ user=...
 passwd=...
 url=mysql://<...>
 ```
+
+## ER Diagram
+
+![ER diagram](fig/er-diagram.png "ER Diagram")
